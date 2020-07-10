@@ -44,7 +44,7 @@ $ ./console.py
 (hbnb) 
 ```
 
-### help
+## help
 Used to get a help to understand how console works. **Use:** `help`
 ```bash
 (hbnb) help
