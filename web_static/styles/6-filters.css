@@ -47,7 +47,6 @@
     opacity: 90%;
 }
 
-
 /**
 dropdown menu
 */
@@ -60,9 +59,11 @@ dropdown menu
 li{
     list-style: none;
 }
+.popover h2{
+    font-size: 16px;
+}
 .popover{
     min-height: 250px;
-    max-height: auto;
     background-color: #FAFAFA;
     border: 1px solid #DDDDDD ;
     border-radius: 4px;
