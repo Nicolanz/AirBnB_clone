@@ -19,7 +19,7 @@
     width: 25%;
     overflow: hidden;
 }
-    
+
 .filters h3{
     font-weight: 600;
     margin-left: 15%;
@@ -65,7 +65,7 @@ li{
 .popover{
     min-height: 250px;
     background-color: #FAFAFA;
-    border: 1px solid #DDDDDD ;
+    border: 1px solid #DDDDDD;
     border-radius: 4px;
     z-index: 1;
 }
