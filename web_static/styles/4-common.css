@@ -11,7 +11,7 @@
 body{
     margin: 0;
     padding: 0;
-    height: 100vh;
+    min-height: 100vh;
     color: #484848;
     font-size: 14px;
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -21,7 +21,7 @@ body{
 }
 .container{
     max-width: 1000px;
-    width: 68%;
+    width: 80%;
     margin: 30px auto auto auto;
     /* border: 7px solid black; */
 }
