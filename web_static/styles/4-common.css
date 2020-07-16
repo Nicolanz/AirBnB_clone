@@ -1,3 +1,13 @@
+/* body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    dis
+    
+} */
 body{
     margin: 0;
     padding: 0;
@@ -5,10 +15,13 @@ body{
     color: #484848;
     font-size: 14px;
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    position: relative;
-    
+    display: flex;
+    flex-flow: column wrap;
+    /* border: 5px solid black; */
 }
 .container{
     max-width: 1000px;
-    margin: 30px auto 30px auto;
+    width: 68%;
+    margin: 30px auto auto auto;
+    /* border: 7px solid black; */
 }
